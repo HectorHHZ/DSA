@@ -46,7 +46,7 @@ components,
 
 ## Commit
 
-Great professor and well scheduled lectures. 12 Assignments help you get more familiar with the concepts. Great mid/final exam papers combining easy questions(Basic concepts) and extremly difficult questions together(eg: Dynammic Programming, graphic data structure proof, analysis of new data structure). 
+Great professor and well scheduled lectures. 12 Assignments help you get more familiar with the concepts. Great mid/final exam papers combining easy questions(Basic concepts) and extremly difficult questions together(Last two questions eg: Dynammic Programming, graphic data structure proof, analysis of new data structure). 
 
 All the algorithm and code are `pseudocode`. Personally, I think this course will be better to reduce the assignments and replace them to Java implementation/LAB of the data structure. 
 
