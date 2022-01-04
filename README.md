@@ -4,7 +4,7 @@ This course is offered by NYU Tandon school of Eningeering. I took this course a
 
 
 
-##Tentative Schedule 
+## Tentative Schedule 
 
 • Week 1: Introduction to algorithm: correctness and performance. Best-, worst-,
 and average-case performance. Asymptotic notation: big-O, big-Ω, and big-Θ;
