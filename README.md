@@ -9,23 +9,37 @@ This course is offered by NYU Tandon school of Eningeering. I took this course a
 • Week 1: Introduction to algorithm: correctness and performance. Best-, worst-,
 and average-case performance. Asymptotic notation: big-O, big-Ω, and big-Θ;
 little-o, and little-ω. 
+
 • Week 2: Recurrence and solving methods: iteration, substitution and master
 theorem
+
 • Week 3: Divide and conquer algorithms, introduction to sorting: insertion sort,
 bubble sort
+
 • Week 4: Sorting: MergeSort, Heap and HeapSort, 
+
 • Week 5: Sorting: quick sort, randomized algorithms, lower bound for comparison
 sorting, counting sort and radix sort, order statistics and selection
+
 • Week 6: Hashing and Universal Hashing, Binary search trees 
+
 • Week 7: Binary search trees (cont.d), midterm review
+
 • Week 8: Midterm Exam
+
 • Week 9: Graph basics, Breath-First Search, Depth-First Search
+
 • Week 10: Directed-acyclic graph and topological ordering, strongly connected
 components, 
+
 • Week 11: Intro to dynamic programming, greedy algorithm
+
 • Week 12: Greedy algorithm, Huffman coding, Minimum Spanning Tree
+
 • Week 13: Single-source shortest paths, all-pairs shortest paths
+
 • Week 14: NP-Completeness and Final Review
+
 • Week 15: Final Exam
 
 
