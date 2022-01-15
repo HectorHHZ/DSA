@@ -44,7 +44,7 @@ components,
 
 
 
-## Commit
+## Comment
 
 Great professor and well scheduled lectures. 12 Assignments help you get more familiar with the concepts. Great mid/final exam papers combining easy questions(Basic concepts) and extremly difficult questions together(Last two questions eg: Dynammic Programming, graphic data structure proof, analysis of new data structure). 
 
